@@ -52,3 +52,14 @@ Suggestions are welcome through GitHub Issues and Pull Requests.
 - `collections/peer_review_quality.md`
 - `collections/reporting_standards.md`
 - `collections/submission_readiness.md`
+
+
+## FAQ
+- `faq/how_to_use_this_repo_effectively.md`
+- `faq/which_reporting_standard_should_i_use.md`
+- `faq/how_to_build_a_submission_qc_workflow.md`
+- `faq/how_to_keep_resources_up_to_date.md`
+- `faq/how_to_select_high_trust_sources.md`
+- `faq/how_to_avoid_link_rot.md`
+- `faq/what_makes_a_resource_citable.md`
+- `faq/how_to_contribute_a_new_resource.md`
