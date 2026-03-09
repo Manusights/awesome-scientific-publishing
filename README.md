@@ -46,3 +46,9 @@ Suggestions are welcome through GitHub Issues and Pull Requests.
 - Journal guides: https://manusights.com/journal-guides
 - Resource library: https://manusights.com/resources
 - Expert review: https://manusights.com
+
+
+## Curated collections
+- `collections/peer_review_quality.md`
+- `collections/reporting_standards.md`
+- `collections/submission_readiness.md`
