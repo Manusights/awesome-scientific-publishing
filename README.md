@@ -63,3 +63,8 @@ Suggestions are welcome through GitHub Issues and Pull Requests.
 - `faq/how_to_avoid_link_rot.md`
 - `faq/what_makes_a_resource_citable.md`
 - `faq/how_to_contribute_a_new_resource.md`
+
+
+## Cornerstone guides
+- `guides/how_to_build_a_research_quality_stack.md`
+- `guides/source_quality_governance_guide.md`
