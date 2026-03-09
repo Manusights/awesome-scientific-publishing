@@ -32,3 +32,17 @@ This repository is actively maintained. Content refreshes are planned monthly.
 ## Contributing
 
 Suggestions are welcome through GitHub Issues and Pull Requests.
+
+
+## Reporting and Transparency Standards
+
+- [STROBE](https://www.strobe-statement.org/)
+- [ARRIVE Guidelines](https://arriveguidelines.org/)
+- [CARE Guidelines](https://www.care-statement.org/)
+- [TRIPOD](https://www.tripod-statement.org/)
+
+## Manusights Deep Links
+
+- Journal guides: https://manusights.com/journal-guides
+- Resource library: https://manusights.com/resources
+- Expert review: https://manusights.com
