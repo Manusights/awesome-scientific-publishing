@@ -68,3 +68,7 @@ Suggestions are welcome through GitHub Issues and Pull Requests.
 ## Cornerstone guides
 - `guides/how_to_build_a_research_quality_stack.md`
 - `guides/source_quality_governance_guide.md`
+
+
+## Case studies and diagrams
+See `case-studies/` and `diagrams/` for worked examples and visual workflows.
