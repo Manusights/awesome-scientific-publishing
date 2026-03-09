@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE) [![Maintained](https://img.shields.io/badge/maintained-yes-brightgreen.svg)](.) [![Website](https://img.shields.io/badge/Manusights-manusights.com-blue.svg)](https://manusights.com)
 
-A curated list of practical resources for scientific publishing, peer review, and manuscript quality control.
+A curated list of high-trust resources for scientific publishing, peer review, and manuscript quality control.
 
 ## Manusights Open Resources
 
