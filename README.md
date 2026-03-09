@@ -1,5 +1,7 @@
 # Awesome Scientific Publishing
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE) [![Maintained](https://img.shields.io/badge/maintained-yes-brightgreen.svg)](.) [![Website](https://img.shields.io/badge/Manusights-manusights.com-blue.svg)](https://manusights.com)
+
 A curated list of practical resources for scientific publishing, peer review, and manuscript quality control.
 
 ## Manusights Open Resources
@@ -21,3 +23,12 @@ A curated list of practical resources for scientific publishing, peer review, an
 ## About
 
 Maintained by Manusights: https://manusights.com
+
+
+## Maintenance
+
+This repository is actively maintained. Content refreshes are planned monthly.
+
+## Contributing
+
+Suggestions are welcome through GitHub Issues and Pull Requests.
